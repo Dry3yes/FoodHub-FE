@@ -4,25 +4,25 @@ function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
-      image: "/Sarah.png?height=100&width=100",
+      name: "Gabriel A.R.",
+      image: "/52824834.jpeg?height=100&width=100",
       text: "FoodHub membuat pesan makanan jadi sangat mudah! Pengirimannya selalu tepat waktu dan makanannya tiba dalam keadaan hangat.",
     },
     {
       id: 2,
-      name: "Michael Chen",
-      image: "/Michael.png?height=100&width=100",
+      name: "Luther Choo",
+      image: "/Luther.jpg?height=100&width=100",
       text: "Layanan pelanggan sangat luar biasa! Ketika saya mengalami masalah dengan pesanan saya, mereka segera menyelesaikannya.",
     },
     {
       id: 3,
-      name: "Emily Rodriguez",
-      image: "/Emily.png?height=100&width=100",
+      name: "Farell Rafael",
+      image: "/Farell.jpg?height=100&width=100",
       text: "Layanan pelanggan sangat luar biasa! Ketika saya mengalami masalah dengan pesanan saya, mereka segera menyelesaikannya.",
     },
     {
       id: 4,
-      name: "David Kim",
+      name: "Jason",
       image: "/David.png?height=100&width=100",
       text: "Pesan makanan kapan aja pakai FoodHub! Prosesnya cepat, aman, dan makanan yang kamu pesan selalu diterima hangat dan nikmat.",
     },
